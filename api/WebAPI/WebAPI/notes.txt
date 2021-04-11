@@ -1,0 +1,3 @@
+﻿apres la fin du projet , 
+faut essayer de faire une api avec EF, faut travailler d'un autre methode, dbcontext () :  base("name=chainedeconnexionname")
+utiliser Resository design patern (irepository)
